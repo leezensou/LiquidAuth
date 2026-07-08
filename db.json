@@ -1,0 +1,72 @@
+{
+  "users-980-0812": 
+    {
+      "id":"U1",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "2",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "980-0812",
+        "domesticAddress": "仙台市青葉区　片平1-1-18　バレンタインハウス 1F"
+      }
+    }
+   ,
+   "users-802-0064": 
+    {
+      "id":"U2",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "2",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "802-0064",
+        "domesticAddress": "北九州市　小倉北区　片野　4-16-21"
+      }
+    }
+  ,
+  "users-530-0057": 
+    {
+      "id":"U3",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "530-0057",
+        "domesticAddress": "大阪市　北区　曽根崎2-3-5　梅新第一生命ビルディング"
+      }
+    }
+   ,
+  "users-252-0231": 
+    {
+      "id":"U4",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "252-0231",
+        "domesticAddress": "相模原市　中央区　相模原　3-1-18"
+      }
+    }
+   ,
+  "users-330-0843": 
+    {
+      "id":"U5",
+	  "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "330-0843",
+        "domesticAddress": "さいたま市　大宮区　吉敷町 4-263-1"
+      }
+    }
+   
+}
