@@ -73,5 +73,9 @@
     "my_na_drivers_license_expire_date": null, 
     "my_na_drivers_license_face_photo": null
 }
-     
+,
+  "getLiquidStatus-016": 
+    {
+      "Status": "OK"
+    }     
 }
